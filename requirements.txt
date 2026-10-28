@@ -1,0 +1,4 @@
+kafka-python==3.0.12
+requests==2.32.3
+psycopg[binary]==3.2.3
+streamlit==1.40.2
